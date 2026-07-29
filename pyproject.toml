@@ -1,0 +1,19 @@
+[project]
+name = "vrage"
+dynamic = ["version"]
+description = "a Python client for the VRage Remote API of Space Engineers 1"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools_scm]
+write_to = "vrage/_version.py"
+version_scheme = "post-release"
+local_scheme = "no-local-version"
+
+[project.urls]
+Repository = "https://github.com/space-engineers-tools/python-vrage"
