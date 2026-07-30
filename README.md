@@ -1,7 +1,8 @@
 # python-vrage
 
-[![License](https://img.shields.io/github/license/space-engineers-tools/python-vrage)](https://github.com/space-engineers-tools/python-vrage/blob/main/LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/vrage?label=PyPI)](https://pypi.org/project/vrage)
+[![license](https://img.shields.io/github/license/space-engineers-tools/python-vrage)](https://github.com/space-engineers-tools/python-vrage/blob/main/LICENSE)
+[![version](https://img.shields.io/github/v/tag/space-engineers-tools/python-vrage?sort=semver&label=version)](https://github.com/space-engineers-tools/python-vrage/releases)
+[![pypi](https://img.shields.io/pypi/v/vrage?label=PyPI)](https://pypi.org/project/vrage)
 
 [python-vrage](https://github.com/space-engineers-tools/python-vrage) is a Python client for the VRage Remote API of [Space Engineers 1](https://www.spaceengineersgame.com).
 
