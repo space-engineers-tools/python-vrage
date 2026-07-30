@@ -1,10 +1,18 @@
 [project]
 name = "vrage"
 dynamic = ["version"]
-description = "a Python client for the VRage Remote API of Space Engineers 1"
+description = "A Python client for the VRage Remote API of Space Engineers 1"
+license = "MIT"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = []
+classifiers = [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Games/Entertainment :: Simulation",
+    "Typing :: Typed",
+]
 
 [build-system]
 requires = ["setuptools>=61.0", "wheel", "setuptools_scm"]
